@@ -15,10 +15,12 @@ Data Analysis with Tableau Tableau Learning Partner,Coursera
 
 
 2️⃣Data Preprocessing and Aggregation
-<img width="651" alt="Screenshot 2024-11-08 at 11 44 24 AM" src="https://github.com/user-attachments/assets/7dfb2c27-055d-4fca-8265-ea107e185869">
-<img width="687" alt="Screenshot 2024-11-08 at 11 44 32 AM" src="https://github.com/user-attachments/assets/880c682e-b429-4e5a-b295-b48a8083ca42">
-<img width="706" alt="Screenshot 2024-11-08 at 11 44 40 AM" src="https://github.com/user-attachments/assets/5293ed5d-7836-4ae6-b518-f3d39a0d6700">
-<img width="653" alt="Screenshot 2024-11-08 at 11 44 44 AM" src="https://github.com/user-attachments/assets/44622e50-07f8-4f66-9af0-40e008ea2582">
+<img width="986" alt="Screenshot 2024-11-08 at 12 33 24 PM" src="https://github.com/user-attachments/assets/dfdb0ec9-59c5-45d5-bb92-520b1b25c151">
+<img width="615" alt="Screenshot 2024-11-08 at 12 33 42 PM" src="https://github.com/user-attachments/assets/e4c6974c-7f98-4b1e-977f-181380379c4d">
+<img width="650" alt="Screenshot 2024-11-08 at 12 33 58 PM" src="https://github.com/user-attachments/assets/161904af-a181-45fe-8369-73ead645fa63">
+<img width="744" alt="Screenshot 2024-11-08 at 12 34 12 PM" src="https://github.com/user-attachments/assets/7361de21-0d77-4bf8-a161-98cfb05a59e7">
+<img width="737" alt="Screenshot 2024-11-08 at 12 35 33 PM" src="https://github.com/user-attachments/assets/0e32b34b-ba12-4d5d-977a-1d578d851006">
+
 
 
 
