@@ -1,4 +1,6 @@
 # Data-Analysis-with-Tableau-Tableau-Learning-Partner-Coursera-LPU-Mooc-INT-233
+🔥🔥🧿🔔NOTE: ATTEMPT ASSIGNMENTS FROM "GRADES" I havent upload Un-Graded Assignment.🔥🔥
+
 Data Analysis with Tableau Tableau Learning Partner,Coursera
 
 1️⃣Data Analysis and Exploration
